@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there
+
+My name is Sam Blechman and I am a data analyst in [Dr. Erik Wright's lab](https://wrightlabscience.com/) in the [Department of Biomedical Informatics](https://www.dbmi.pitt.edu/), University of Pittsburgh. I will complete my master's degree in May of 2025 and am exploring data science and data analytics roles.
+
+In my current role, I mine and analyze electronic health record (EHR) data to study the effect of antibiotic treatment heterogeneity across a large and diverse health system ([UPMC](https://www.upmc.com/)). I use causal inference methods to compare patient outcomes as a funciton of antibiotic treatments, causal discovery to understand the role of clinical antibiotic resistance, and machine learning to stratify patients by risk of adverse outcomes.
 
 <!--
 **samblechman/samblechman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
