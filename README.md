@@ -1,4 +1,4 @@
-## Hi there
+## Hi there!
 
 My name is Sam Blechman and I am a data analyst in [Dr. Erik Wright's lab](https://wrightlabscience.com/) in the [Department of Biomedical Informatics](https://www.dbmi.pitt.edu/), University of Pittsburgh. I will complete my master's degree in May of 2025 and am exploring data science and data analytics roles.
 
