@@ -2,7 +2,7 @@
 
 My name is Sam Blechman and I am a data scientist and master's student in [Dr. Erik Wright's lab](https://wrightlabscience.com/) in the [Department of Biomedical Informatics](https://www.dbmi.pitt.edu/) at the University of Pittsburgh. I will complete my master's degree in May of 2025 and am pursuing roles in data science, data analytics, and bioinformatics.
 
-In my current role, I mine and analyze electronic health record (EHR) data to study the effect of antibiotic resistance and antibiotic treatment across a large and diverse health system ([UPMC](https://www.upmc.com/)). I use causal machine learning (think causal inference but shinier!) to identify subpopulations that are responsive to an alternative antibiotic treamtent or that are particular sensitive to the effect of antibiotic resistance.
+In my current role, I mine and analyze electronic health record (EHR) data to study the effect of antibiotic resistance and antibiotic treatment across a large and diverse health system ([UPMC](https://www.upmc.com/)). I use causal machine learning (think causal inference but shinier!) to identify subpopulations that are responsive to alternative antibiotic treatments or that are particular sensitive to the effect of antibiotic resistance.
 
 Modeling, inference, and prediction are really cool and are ultimately the ways that we derive insights from data. However, I am passionate about simple but important components of data science as ways of understanding the data and letting it guide you. Namely, **looking at the raw data** and **visualizations**. I strive to be a scientist first, and data scientist second. I strive to lead with my brain rather than my fancy modeling tools.
 
